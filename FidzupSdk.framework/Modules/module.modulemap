@@ -1,0 +1,11 @@
+framework module FidzupSdk {
+  umbrella header "FidzupSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module FidzupSdk.Swift {
+    header "FidzupSdk-Swift.h"
+    requires objc
+}

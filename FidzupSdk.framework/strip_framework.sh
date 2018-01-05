@@ -1,6 +1,6 @@
 APP_PATH="${TARGET_BUILD_DIR}/${WRAPPER_NAME}"
 
-FRAMEWORK_FILE_NAME="FidzupSdk.frameworks"
+FRAMEWORK_FILE_NAME="FidzupSdk.framework"
 
 # This script loops through the frameworks embedded in the application and
 # removes unused architectures.

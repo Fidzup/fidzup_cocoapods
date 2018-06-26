@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "FidzupSDK"
-  s.version          = "1.0"
+  s.version          = "2.0"
   s.summary          = "Fidzup SDK"
   s.homepage         = "https://github.com/Fidzup/fidzup_cocoapods"
   s.license          = 'Property'
